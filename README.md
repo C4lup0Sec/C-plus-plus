@@ -1,2 +1,2 @@
-# C-
+# C++
 proyectos en c++
